@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello, I'm Jimin 😉 </h1>
+  <h1> Hello, I'm Jimin 👏 </h1>
 </div>
 
 <div align="center">
@@ -13,17 +13,15 @@
 </div>
 
 <div align="center">
-  <h2> 🌱Tech Stack🌱 </h2>
+  <h2> 🌱 Tech Stack 🌱 </h2>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   
 </div>
   
-<br>  
+<br><br>
 
 <div align="center">
   <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jiminpark23&show_icons=true&hide_border=true&title_color=327ED6&layout=compact">
   <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jiminpark23&show_icons=true&title_color=080808&icon_color=F42929&theme=default" height="165">
 </div>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=본인ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact
