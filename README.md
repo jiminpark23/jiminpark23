@@ -9,7 +9,19 @@
 <br>
 
 <div align="center">
-  <p>...</p>
+  <p>
+    나는 멋진 개발자입니다.
+   
+   ``` “말은 쉽지, 코드를 보여줘.”
+    “Talk is cheap. Show me the code.”
+      – 리누스 토르발스(Linus Torvalds)
+```
+</p>
+<p>
+  상상한 것을 말로 설명하는 것은 쉽다.<br/>
+  하지만, 직접 설계하고 개발하고 유지보수하는 과정은 어렵다.<br/>
+  말로만 형용하는 것이 아닌 상상하던 것을 손으로 직접 구현할 수 있는 능력을 갖춘 개발자가 될 것이다.<br/>
+</p>
 </div>
 
 <div align="center">
@@ -40,28 +52,29 @@
 <br><br>
 
 <div align="center">
+  <h2> 🎞 History 🎞 </h2>
     <table>
-    	<th>기간</th>
-    	<th>내용</th>
+    	<th align="center" width="200">기간</th>
+    	<th align="center" width="400">내용</th>
     	<tr>
-    	    <td>2020.03 ~ 2024.02</td>
-    	    <td>🏤 단국대학교 소프트웨어학과 졸업 예정 🏤</td>
+    	    <td align="center">2020.03 ~ 2024.02</td>
+    	    <td align="center">🏤 단국대학교 소프트웨어학과 졸업 예정 </td>
     	</tr>
       <tr>
-    	    <td>2022.08 ~ 2022.12</td>
-    	    <td>🛰 TABA(데이터 분석 및 인공지능 교육) 1기 🛰</td>
+    	    <td align="center">2022.08 ~ 2022.12</td>
+    	    <td align="center">🛰 TABA(데이터 분석 및 인공지능 교육) 1기 </td>
     	</tr>	
       <tr>
-    	    <td>2022.12 ~ 2023.02</td>
-    	    <td>💻 신한투자증권 프로디지털아카데미 1기 💻</td>
+    	    <td align="center">2022.12 ~ 2023.02</td>
+    	    <td align="center">💻 신한투자증권 프로디지털아카데미 1기 </td>
     	</tr>
       <tr>
-    	    <td>2023.08 ~ 2023.11</td>
-    	    <td>💬 Sketch Mind(HTP TEST) 프로젝트 🗨</td>
+    	    <td align="center">2023.08 ~ 2023.11</td>
+    	    <td align="center">💬 Sketch Mind(HTP TEST) 프로젝트 </td>
     	</tr>
       <tr>
-    	    <td>2023.12 ~ 2024.06</td>
-    	    <td>💻 신한투자증권 프로디지털아카데미 3기 💻</td>
+    	    <td align="center">2023.12 ~ 2024.06</td>
+    	    <td align="center">💻 신한투자증권 프로디지털아카데미 3기 </td>
     	</tr>
     </table>
 </div>
