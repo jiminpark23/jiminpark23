@@ -12,7 +12,8 @@
   <p>
     나는 멋진 개발자입니다.
    
-   ``` “말은 쉽지, 코드를 보여줘.”
+```
+      “말은 쉽지, 코드를 보여줘.”
     “Talk is cheap. Show me the code.”
       – 리누스 토르발스(Linus Torvalds)
 ```
