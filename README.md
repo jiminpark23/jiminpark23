@@ -36,3 +36,28 @@
   <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jiminpark23&show_icons=true&hide_border=true&title_color=327ED6&layout=compact">
   <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jiminpark23&show_icons=true&title_color=080808&icon_color=F42929&theme=default" height="165">
 </div>
+
+<br><br>
+
+<div align="center">
+    <table>
+    	<th>기간</th>
+    	<th>내용</th>
+    	<tr>
+    	    <td>2020.03~2024.02</td>
+    	    <td>🏤 단국대학교 소프트웨어학과 졸업 예정 🏤</td>
+    	</tr>
+    	<tr>
+    	    <td>2023.08~2023.11</td>
+    	    <td>💬 Sketch Mind(HTP TEST) 프로젝트 🗨</td>
+    	</tr>
+<!--       <tr>
+    	    <td>첫번째 칸</td>
+    	    <td>두번째 칸</td>
+    	</tr>	
+      <tr>
+    	    <td>첫번째 칸</td>
+    	    <td>두번째 칸</td>
+    	</tr> -->
+    </table>
+</div>
