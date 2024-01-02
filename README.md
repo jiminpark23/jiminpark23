@@ -19,8 +19,8 @@
     </p>
   </blockquote>
   <p>
-    어제보다 성장한 사람이 되기 위해<br/>
-    꾸준히 노력하는 개발자가 되겠습니다.<br/><br/>
+    어제보다 성장한 사람이 되기 위해<br>
+    꾸준히 노력하는 개발자가 되겠습니다.<br><br>
   </p>
 </div>
 
@@ -67,11 +67,11 @@
     	    <td align="center">🛰 단국대학교/TmaxTibero/CCCR Tmax AI Bigdata Academy TABA 1기 </td>
           <td align="center"> 수료 및 팀프로젝트 장려상 <br> (돌연변이 P53 전사활동 예측) </td>
     	</tr>	
-<!--       <tr>
+      <tr>
     	    <td align="center">2022.12 ~ 2023.02</td>
     	    <td align="center">💻 신한투자증권 프로디지털아카데미 1기 </td>
           <td align="center"> 수료 및 팀프로젝트 최우수상 (음계주식차트) </td>
-    	</tr> -->
+    	</tr>
       <tr>
     	    <td align="center">2023.08 ~ 2023.11</td>
     	    <td align="center">💬 Sketch Mind 프로젝트 </td>
