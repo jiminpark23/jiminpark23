@@ -6,21 +6,22 @@
   <a href="https://github.com/jiminpark23"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiminpark23&count_bg=%23A6EAF5&title_bg=%236DD1F1&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-<!--<br>-->
+<br>
 
 <div align="center">
-<p>
-   
-```
+  <blockquote>
+    <p>
       “성공이란 열정을 잃지 않고 실패를 거듭할 수 있는 능력이다”
-    “Success is the ability to go from one failure to another with no loss of enthusiasm”
+      <br>
+      “Success is the ability to go from one failure to another with no loss of enthusiasm”
+      <br>
       – 윈스턴처칠 (Winston Churchill) 
-```
-</p>
-<p>
-  어제보다 성장한 사람이 되기 위해<br/>
-  꾸준히 노력하는 개발자가 되겠습니다.<br/></br>
-</p>
+    </p>
+  </blockquote>
+  <p>
+    어제보다 성장한 사람이 되기 위해<br/>
+    꾸준히 노력하는 개발자가 되겠습니다.<br/><br/>
+  </p>
 </div>
 
 <div align="center">
