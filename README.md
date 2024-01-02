@@ -9,14 +9,11 @@
 <br>
 
 <div align="center">
-  <p>
-   
-```
-      “성공이란 열정을 잃지 않고 실패를 거듭할 수 있는 능력이다”
-“Success is the ability to go from one failure to another with no loss of enthusiasm”
-      – 윈스턴처칠 (Winston Churchill) 
-```
-  </p>
+  <pre>
+    “성공이란 열정을 잃지 않고 실패를 거듭할 수 있는 능력이다”
+  “Success is the ability to go from one failure to another with no loss of enthusiasm”
+  – 윈스턴처칠 (Winston Churchill) 
+  </pre>
   <p>
     어제보다 성장한 사람이 되기 위해<br>
     꾸준히 노력하는 개발자가 되겠습니다.<br><br>
