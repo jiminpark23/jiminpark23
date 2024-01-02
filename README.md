@@ -6,11 +6,10 @@
   <a href="https://github.com/jiminpark23"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiminpark23&count_bg=%23A6EAF5&title_bg=%236DD1F1&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-<br>
+<!--<br>-->
 
 <div align="center">
-  <p>
-    .
+<p>
    
 ```
       “성공이란 열정을 잃지 않고 실패를 거듭할 수 있는 능력이다”
