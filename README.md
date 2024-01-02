@@ -10,18 +10,17 @@
 
 <div align="center">
   <p>
-    나는 멋진 개발자입니다.
+    .
    
 ```
-      “말은 쉽지, 코드를 보여줘.”
-    “Talk is cheap. Show me the code.”
-      – 리누스 토르발스(Linus Torvalds)
+      “성공이란 열정을 잃지 않고 실패를 거듭할 수 있는 능력이다”
+    “Success is the ability to go from one failure to another with no loss of enthusiasm”
+      – 윈스턴처칠 (Winston Churchill) 
 ```
 </p>
 <p>
-  상상한 것을 말로 설명하는 것은 쉽다.<br/>
-  하지만, 직접 설계하고 개발하고 유지보수하는 과정은 어렵다.<br/>
-  말로만 형용하는 것이 아닌 상상하던 것을 손으로 직접 구현할 수 있는 능력을 갖춘 개발자가 될 것이다.<br/>
+  어제보다 성장한 사람이 되기 위해<br/>
+  꾸준히 노력하는 개발자가 되겠습니다.<br/></br>
 </p>
 </div>
 
