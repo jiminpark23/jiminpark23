@@ -81,6 +81,3 @@
   <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jiminpark23&show_icons=true&hide_border=true&title_color=327ED6&layout=compact">
   <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jiminpark23&show_icons=true&title_color=080808&icon_color=F42929&theme=default" height="165">
 </div>
-
-<br>
-https://github.com/jiminpark23/ShinhanPDA3/blob/main/0104_aws.md
